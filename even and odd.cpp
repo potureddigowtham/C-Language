@@ -1,5 +1,5 @@
 // even,odd and average of both when range is given.
-
+//-------------------------------------------------
 #include <stdio.h>
 #include <conio.h>
 int main()
