@@ -1,5 +1,7 @@
 // perfect number 
 // number itself is equal to sum of its proper divisors
+//-----------------------------------------------------
+
 
 #include <stdio.h>
 
