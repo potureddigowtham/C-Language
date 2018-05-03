@@ -1,5 +1,7 @@
 // palindrome number
 // number should be same even if reversed. ex: 121 , 12321. 
+//--------------------------------------------------------
+
 #include <stdio.h>
 int main()
 {
