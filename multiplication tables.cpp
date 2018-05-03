@@ -1,4 +1,5 @@
 // multiplication tables
+//----------------------
 
 #include <stdio.h>
 #include <conio.h>
