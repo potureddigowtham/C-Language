@@ -9,10 +9,15 @@ int main()
 	printf("Enter the string :");
 	scanf("%[^\n]s",&input);
 	int n=strlen(input);
-	printf("%d",n);
-	for(i=0;i<=n;i++)
+//	printf("%d",n);
+/*	for(i=0;i<=n;i++)
 	{
 		printf("%c",input[i]);	
+	}	
+*/
+	for(i=0;i<=n;i++)
+	{
+			
 	}	
 }
 
