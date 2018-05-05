@@ -1,4 +1,5 @@
 //local variables
+//---------------
 
 #include <stdio.h>
 #include <conio.h>
