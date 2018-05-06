@@ -1,4 +1,6 @@
 // floyd!s triangle 
+//-----------------
+
 
 #include <stdio.h>
 
