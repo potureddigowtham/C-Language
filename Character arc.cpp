@@ -1,4 +1,5 @@
 // Nested for loop arch with characters
+//-------------------------------------
 
 #include <stdio.h>
 #include <string.h>
