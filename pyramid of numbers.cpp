@@ -1,4 +1,5 @@
 // pyramid of numbers
+//-------------------
 
 #include <stdio.h>
 
