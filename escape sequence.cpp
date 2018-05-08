@@ -1,6 +1,7 @@
 //first programm
 //--------------
 //1. escape sequence
+//------------------
 
 #include <stdio.h>
 
