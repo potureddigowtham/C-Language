@@ -1,5 +1,6 @@
 // amstrong number
 // for a 3 digit number if 123= 1*1*1 + 2*2*2 + 3*3*3 then its amstrong
+//---------------------------------------------------------------------
 
 #include <stdio.h>
 int main()
