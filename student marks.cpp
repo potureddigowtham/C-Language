@@ -1,5 +1,5 @@
 // results of a student
-//---------------------
+//----------------------
 
 #include <stdio.h>
 #include<string.h>
