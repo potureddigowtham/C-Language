@@ -1,5 +1,5 @@
 // vowel or not in a sentence
-//------------------------------------
+//-------------------------------------
 
 #include <stdio.h>
 #include <string.h>
