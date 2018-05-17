@@ -1,5 +1,5 @@
 // number combinations
-//--------------------
+//----------------------
 
 #include <stdio.h>
 
