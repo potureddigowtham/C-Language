@@ -16,6 +16,7 @@ int main()
 		r=n%10;
 		printf("\n%d\t%d%d",r,r,r);
 		sum=sum*10+r;
+// done
 		n=n/10;
 	}
 //	printf("\n%d",sum);
