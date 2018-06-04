@@ -6,6 +6,7 @@
 int main()
 {
 	int a[20][20],i,j,b[22][20],l,m,t,n,c[20];float det=0;
+	printf("Enter n: ");
 	scanf("%d",&n);
 	for(i=0;i<n;i++)
 	{
