@@ -1,4 +1,4 @@
-// Inverse of matrix
+// Inverse of matrix  ......
 
 #include <stdio.h>
 #include <conio.h>
